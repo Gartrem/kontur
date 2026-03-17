@@ -1,0 +1,26 @@
+packages:
+  "framer-motion": "For premium smooth scroll animations and section reveals"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to merge tailwind classes safely"
+
+images:
+  - path: "artifacts/kontur-barbershop/public/images/hero-bg.png"
+    description: "Cinematic dark photography of a premium masculine barbershop interior, moody lighting, subtle warm gold accents, shallow depth of field, high-end aesthetic, brutalist"
+    aspect_ratio: "16:9"
+  - path: "artifacts/kontur-barbershop/public/images/about-tools.png"
+    description: "Close up macro shot of premium barber clippers and a straight razor on a dark slate surface, dramatic lighting with amber highlights, sharp focus, luxury vibe"
+    aspect_ratio: "4:3"
+  - path: "artifacts/kontur-barbershop/public/images/barber-1.png"
+    description: "Portrait of a stylish masculine barber with a neat beard, wearing a dark apron, moody cinematic lighting, dark textured background"
+    aspect_ratio: "3:4"
+  - path: "artifacts/kontur-barbershop/public/images/barber-2.png"
+    description: "Portrait of a professional young male barber with arm tattoos, focused expression, cinematic studio lighting, dark gradient background"
+    aspect_ratio: "3:4"
+  - path: "artifacts/kontur-barbershop/public/images/barber-3.png"
+    description: "Portrait of a distinguished male barber looking confidently at camera, sharp fade haircut, moody low key lighting, dark background"
+    aspect_ratio: "3:4"
+
+notes:
+  - "The site is entirely static, as requested."
+  - "All booking buttons link to the provided YClients URL."
+  - "Using Framer Motion for premium scroll reveals."
